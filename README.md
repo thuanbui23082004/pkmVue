@@ -35,3 +35,4 @@ npm run lint
 ```
 # Pokemon-final
 "# pkmVue" 
+"# pkmVue" 
